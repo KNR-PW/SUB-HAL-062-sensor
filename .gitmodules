@@ -1,6 +1,3 @@
 [submodule "stm32f4xx_hal_driver"]
 	path = stm32f4xx_hal_driver
 	url = https://github.com/KNR-PW/stm32f4xx_hal_driver
-[submodule "HAL062_motorboard"]
-	path = HAL062_motorboard
-	url = https://github.com/KNR-PW/HAL062_motorboard
